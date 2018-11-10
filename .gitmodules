@@ -1,0 +1,6 @@
+[submodule "GERM-client"]
+	path = client
+	url = https://github.com/maxakuru/GERM-client.git
+[submodule "GERM-server"]
+	path = server
+	url = https://github.com/maxakuru/GERM-server.git
